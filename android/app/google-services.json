@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057866954803",
+    "project_id": "carrentalproject-b5884",
+    "storage_bucket": "carrentalproject-b5884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057866954803:android:a5a9984be6015a2ccc0b46",
+        "android_client_info": {
+          "package_name": "com.example.flutter_rentcarapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTG0LjtTms6y4mTBSy2DDxa9P4p1g-yQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

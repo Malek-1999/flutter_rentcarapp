@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB5Nk2ZPLb6fd56nYXJUeiswFAfhRkjoM4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1057866954803</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterRentcarapp</string>
+	<key>PROJECT_ID</key>
+	<string>carrentalproject-b5884</string>
+	<key>STORAGE_BUCKET</key>
+	<string>carrentalproject-b5884.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1057866954803:ios:ecbdde56b94ce58dcc0b46</string>
+</dict>
+</plist>
